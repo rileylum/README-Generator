@@ -136,6 +136,19 @@ function generateMarkdown(data) {
 
   ## Table of Contents
 
+  1.[Installation Instructions](#installation-instructions)
+
+  2.[Usage Instructions](#usage-instructions)
+
+  3.[Contribution Instructions](#contribution-instructions)
+
+  4.[Testing Instructions](#testing-instructions)
+
+  5.[Questions](#questions)
+
+  6.[License](#License)
+  
+
   ## Installation Instructions
 
     ${data.install}
@@ -158,7 +171,7 @@ function generateMarkdown(data) {
 
   ${data.email}
 
-  ## Licence
+  ## License
 
   ${licenseInfo.description}
 
