@@ -33,6 +33,8 @@
 
   Follow the prompts and a README file will be generated in the project folder.
 
+  ![Animation showing the usage of the project from a command line](./DEV/imgs/DemoGIF.gif)
+
   ## Contribution Instructions
 
   I am not actively maintaining this project. Please create a fork for any further improvements.
