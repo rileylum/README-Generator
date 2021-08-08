@@ -55,7 +55,7 @@ const questions = [
         name: 'license',
         message: 'What license is this project being released under?',
         type: 'list',
-        choices: ['Apache License 2.0', 'GNU GPLv3', 'MIT Licence', 'ISC Licence']
+        choices: ['Apache License 2.0', 'GNU GPLv3', 'MIT License', 'ISC License']
     }
 
 ];

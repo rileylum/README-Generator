@@ -155,7 +155,7 @@ function generateMarkdown(data) {
 
   ## Usage Instructions
 
-    ${data.usage}
+  ${data.usage}
 
   ## Contribution Instructions
 
@@ -166,10 +166,8 @@ function generateMarkdown(data) {
     ${data.test}
 
   ## Questions
-
-  ${data.github}
-
-  ${data.email}
+  
+  For any questions regarding the project please reach out to me on Github: [Github](https://github.com/${data.github}) or via Email: ${data.email}
 
   ## License
 
